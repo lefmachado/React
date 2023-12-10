@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": false,
+  "prettier.configPath": "./.prettierrc.js",
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}
